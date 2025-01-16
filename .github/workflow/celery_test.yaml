@@ -1,1 +1,4 @@
 Name: Official workflow
+ on:
+   push:
+     branch: development
